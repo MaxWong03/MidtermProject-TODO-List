@@ -13,8 +13,12 @@ This app is the Midterm Project for Lighthouse Labs 2019 Web Development Bootcam
 ### Create Todo Module
 !["Create Todo Module"](/docs/gifs/Create_Update.gif)
 
-<!-- ### Login
-!["Loginr"](https://github.com/CamilaRivera/MidtermProject-TODO-List/blob/master/docs/login.png?raw=true) -->
+### Auto Categorization
+!["Auto Cat"](https://github.com/MaxWong03/MidtermProject-TODO-List/blob/master/docs/gifs/auto-cat.gif)
+
+### Carousel View and Functionality
+!["carousel1"](https://github.com/MaxWong03/MidtermProject-TODO-List/blob/master/docs/gifs/carousel-1.gif)
+!["carousel2"](https://github.com/MaxWong03/MidtermProject-TODO-List/blob/master/docs/gifs/carousel-2.gif)
 
 ### Edit Todo Module
 !["Edit Todo Module"](/docs/gifs/edit_des.gif)

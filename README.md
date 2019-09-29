@@ -39,6 +39,8 @@ This app is the Midterm Project for Lighthouse Labs 2019 Web Development Bootcam
 3) Users can `edit`, `delete`, or `complete` a task
 4) Users can see their `task count` for `all four main lists`, as well as `today's`, the `weekly's`, and `completed tasks` on the side nav bar.
 5) Users can get `additional information` related to their tasks through the carousel 
+6) Users can see their list of tasks sorted by priority (indicated by flag colors)
+7) Users can see how much time they have left to complete a certain task
 
 ## Technical Information / Stack
 Todo List is a full stack web app, built with the following:
